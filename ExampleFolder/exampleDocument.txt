@@ -4,3 +4,5 @@ if (pretty) {
 }
 
 // some small changes
+
+// additional changes via Eclipse
