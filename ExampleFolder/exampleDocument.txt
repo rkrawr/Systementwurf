@@ -1,0 +1,4 @@
+some simpleCode
+if (pretty) {
+	System.out.println("nice!");
+}
